@@ -1,3 +1,0 @@
-{"timestamp": 1774896672.4096122, "fwd_mbps": 0.4, "bwd_mbps": 0.0, "total_packets": 5, "total_bytes": 2000, "context": "high_activity", "vector_category": "Phishing"}
-{"timestamp": 1774896673.4590728, "fwd_mbps": 1.6013, "bwd_mbps": 0.0, "total_packets": 1200, "total_bytes": 240000, "context": "high_activity", "vector_category": "Brute Force"}
-{"timestamp": 1774896674.4795198, "fwd_mbps": 0.4, "bwd_mbps": 0.0, "total_packets": 5, "total_bytes": 2000, "context": "high_activity", "vector_category": "Phishing"}
