@@ -1,8 +1,8 @@
+from ml.model import predict, BASELINE_PATH
+import json
 import numpy as np
 import json
-from ml import model
 import os
-from model import BASELINE_PATH, predict
 import json
 normal_window = {
     "mean_pps": 45,
