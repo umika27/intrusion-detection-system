@@ -1,9 +1,13 @@
 WINDOW_SIZE = 50
 
+import os
+
+BASE_DIR = os.path.dirname(__file__)
+
 RAW_DATA_PATHS = [
-    "data/cicids.csv",
-    "data/genis.csv",
-    "data/unsw.csv"
+    os.path.join(BASE_DIR, "cicids.csv"),
+    os.path.join(BASE_DIR, "unsw.csv"),
+    os.path.join(BASE_DIR, "genis.csv"),
 ]
 
 STREAM_URL = "http://127.0.0.1:8000/predict"
