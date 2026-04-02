@@ -1,0 +1,16 @@
+{
+  "mean": {
+    "mean_pps": 0.032644,
+    "mean_bps": 1.115559,
+    "total_packets": 585.338454,
+    "total_bytes": 106498.250896,
+    "var_pps": 0.025812
+  },
+  "std": {
+    "mean_pps": 0.067469,
+    "mean_bps": 3.882492,
+    "total_packets": 747.878312,
+    "total_bytes": 135710.696951,
+    "var_pps": 0.063923
+  }
+}
